@@ -1,0 +1,7 @@
+# requirements.txt 是用來列出程式需要的 Python 套件清單。建立方法：
+# 編輯檔案，加入以下內容： 
+streamlit 
+pandas 
+plotly 
+scipy 
+openpyxl
